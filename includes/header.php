@@ -1,5 +1,8 @@
 <?php
-include 'includes/arrays.php';
+
+$companyName = "Franklin's Fine Dining";
+include('includes/arrays.php');
+
 ?>
 
 <!DOCTYPE html>
@@ -19,7 +22,7 @@ include 'includes/arrays.php';
         <img src="img/banner.png" alt="Franklin's Fine Dining">
       </a>
       <div id="nav">
-        <?php include 'includes/nav.php' ?>
+        <?php include('includes/nav.php'); ?>
       </div>
       <!--nav-->
 
