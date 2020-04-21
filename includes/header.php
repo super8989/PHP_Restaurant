@@ -11,7 +11,7 @@ include('includes/arrays.php');
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Franklin's Restaurant</title>
+  <title><?php echo TITLE; ?></title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
@@ -23,7 +23,6 @@ include('includes/arrays.php');
       </a>
       <div id="nav">
         <?php include('includes/nav.php'); ?>
-      </div>
-      <!--nav-->
+      </div><!-- nav -->
 
       <div class="content">

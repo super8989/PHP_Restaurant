@@ -26,17 +26,14 @@
 
   </div>
 
-</div>
-<!--footer-->
+</div><!-- footer -->
 <small>&copy; <?php echo date('Y'); ?> <?php echo $companyName; ?></small>
 
-</div>
-<!--content-->
+</div><!-- content -->
 
-</div>
-<!--banner-->
+</div><!-- banner -->
 
-</div><!-- wrapper-->
+</div><!-- wrapper -->
 
 <div class="copyright-info">
   <?php include('includes/copyright.php'); ?>
