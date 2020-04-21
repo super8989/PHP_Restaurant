@@ -50,14 +50,14 @@ $menuItems = array(
   "club-sandwich" => array(
     "title" => "Club Sandwich",
     "price" => 11,
-    "blurb" => "Bacon lorem ipsum dolor sit amet fatback",
+    "blurb" => "Bacon lorem ipsum dolor sit amet fatback Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, autem.",
     "drink" => "Club Soda"
   ),
 
   "dill-salmon" => array(
     "title" => "Lemon &amp; Dill Salmon",
     "price" => 18,
-    "blurb" => "Pork belly qui exercitationem, hic, suscipit quas et, placeat culpa aliquid deleniti magni",
+    "blurb" => "Pork belly qui exercitationem, hic, suscipit quas et, placeat culpa aliquid deleniti magni excepturi ducimus reiciendis voluptates, soluta quo culpa consequuntur ex earum cum! Assumenda",
     "drink" => "Fancy Wine"
   ),
 
@@ -72,7 +72,7 @@ $menuItems = array(
     "title" => "Mexican Barbacoa",
     "price" => 23,
     "blurb" => "Mexican barbacoa spicy meat laudantium quidem eum
-    animi qui exercitationem, hic, suscipit",
+    animi qui exercitationem, hic, suscipit veniam beatae voluptates doloremque quos",
     "drink" => "Cola"
   ),
 
